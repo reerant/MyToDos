@@ -33,7 +33,7 @@ public class TasksActivity extends AppCompatActivity {
         //using the custom adapter with list view
         taskListView.setAdapter(taskAdapter);
 
-        //adding onClickListener to info button that launches new info activity
+        //adding onClickListener to add new task button that launches add task activity
         Button addNewTaskBtn = findViewById(R.id.addNewTaskBtn);
 
         addNewTaskBtn.setOnClickListener(new View.OnClickListener() {
