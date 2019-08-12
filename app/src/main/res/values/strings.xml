@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyToDos</string>
+    <string name="checkedImageView" />
+    <string name="headerTextView" />
+
+    <string-array name="task">
+        <item>test1</item>
+        <item>test2</item>
+        <item>test3</item>
+    </string-array>
+
+    <string-array name="date">
+        <item>123</item>
+        <item>456</item>
+        <item>789</item>
+    </string-array>
+
+</resources>
